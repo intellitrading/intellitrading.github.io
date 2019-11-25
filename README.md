@@ -1,2 +1,0 @@
-IntelliTrading Site
-underConstruction
